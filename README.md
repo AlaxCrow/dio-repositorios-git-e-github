@@ -26,3 +26,7 @@ git init
 
 ### 🔎 Referências 
 - [Digital Innovation One]().
+
+### 👌Alterando arquivo local diretamente pelo remoto do gitHub
+
+Agora sim 
