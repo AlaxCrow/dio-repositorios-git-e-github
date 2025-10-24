@@ -27,6 +27,10 @@ git init
 ### 🔎 Referências 
 - [Digital Innovation One]().
 
-### 👌Alterando arquivo local diretamente pelo remoto do gitHub
+### 👌Alterando repositório local diretamente pelo repositório remoto do gitHub
 
 Agora sim 
+
+### Alterando ambos os repositórios pelo Web editor do GitHub
+
+tecla (.) dentro do repositório
