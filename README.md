@@ -31,6 +31,6 @@ git init
 
 Agora sim 
 
-### Alterando ambos os repositórios pelo Web editor do GitHub
+### 👻 Alterando ambos os repositórios pelo Web editor do GitHub
 
 tecla (.) dentro do repositório
